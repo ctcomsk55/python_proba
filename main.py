@@ -2,7 +2,7 @@ from tkinter import *
 def hello_world():
         print("Hello world")
 
-
+'''
 # создаем окно main
 main = Tk()
 
@@ -14,3 +14,4 @@ btn = Button(main, width=20,
              command=hello_world)
 btn.pack()
 main.mainloop()
+'''

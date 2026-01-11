@@ -1,8 +1,10 @@
+print("Hello world")
+
+'''
 from tkinter import *
 def hello_world():
         print("Hello world")
 
-'''
 # создаем окно main
 main = Tk()
 
